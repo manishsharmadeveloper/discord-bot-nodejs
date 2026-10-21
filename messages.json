@@ -1,0 +1,77 @@
+[
+  {
+    "id": "tip-001",
+    "category": "Trading Tip",
+    "text": "Before entering a trade, write down the setup, invalidation level, and exit conditions. A plan is useful only if you can follow it."
+  },
+  {
+    "id": "tip-002",
+    "category": "Trading Tip",
+    "text": "A stop-loss is a risk-control tool, not a guarantee against slippage or gaps. Understand the product and order type."
+  },
+  {
+    "id": "tip-003",
+    "category": "Trading Tip",
+    "text": "Keep a trading journal: record the setup, reasoning, risk, and lesson learned."
+  },
+  {
+    "id": "psych-001",
+    "category": "Psychology",
+    "text": "Missing a move is not a failure. Avoid chasing price; protecting your decision process matters more than catching every move."
+  },
+  {
+    "id": "psych-002",
+    "category": "Psychology",
+    "text": "After a frustrating result, pause and review your rules before making another decision. Avoid revenge trading."
+  },
+  {
+    "id": "psych-003",
+    "category": "Psychology",
+    "text": "Confidence should come from a repeatable process and honest records, not from one winning trade."
+  },
+  {
+    "id": "psych-004",
+    "category": "Psychology",
+    "text": "Notice emotional triggers such as FOMO, impatience, and overconfidence. Naming a trigger can help you slow down."
+  },
+  {
+    "id": "ta-001",
+    "category": "Technical Analysis",
+    "text": "Support and resistance are zones, not perfectly precise lines. Watch how price behaves around an area."
+  },
+  {
+    "id": "ta-002",
+    "category": "Technical Analysis",
+    "text": "A moving average summarizes past prices; it does not predict the future. Signals can be noisy in sideways markets."
+  },
+  {
+    "id": "ta-003",
+    "category": "Technical Analysis",
+    "text": "Volume can add context to price moves, but data quality and meaning vary across markets and venues."
+  },
+  {
+    "id": "ta-004",
+    "category": "Technical Analysis",
+    "text": "RSI is not a standalone buy or sell signal. Consider context, trend, timeframe, and tested rules."
+  },
+  {
+    "id": "ta-005",
+    "category": "Technical Analysis",
+    "text": "A breakout can fail and return to its prior range. Define what would invalidate the idea."
+  },
+  {
+    "id": "tip-004",
+    "category": "Trading Tip",
+    "text": "Understand fees, spreads, liquidity, and slippage. Costs can materially affect frequent trading."
+  },
+  {
+    "id": "psych-005",
+    "category": "Psychology",
+    "text": "Consistency includes following the rule to sit out when conditions are unclear."
+  },
+  {
+    "id": "ta-006",
+    "category": "Technical Analysis",
+    "text": "A chart pattern can look different across timeframes. Define your primary timeframe before interpreting signals."
+  }
+]
